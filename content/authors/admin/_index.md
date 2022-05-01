@@ -14,7 +14,7 @@ organizations:
     url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Pedagogy is a fascination with the growth of the other.
 
 # Interests to show in About widget
 interests:
