@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I once heard of a story of a mathematics teacher who drew a straight line on the blackboard and extended it beyond the classroom, leading the students to experience the infinite extension of a straight line. Marvelled at the enlightenment that could be achieved through mathematics education, I have long yearned for becoming such a kind of mathematics teacher who can impart mathematical knowledge to students through methods of guidance and inspiration while overturning their stereotype that mathematics is a boring and mechanical discipline composed of definitions, formulas, and theorems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Grown up in Beijing,
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
