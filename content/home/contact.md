@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhoumengxin@outlook.com
+  phone: +86 15910792195
   address:
     street: 450 Serra Mall
     city: Stanford
     region: CA
     postcode: '94305'
-    country: United States
-    country_code: US
+    country: China
+    country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
