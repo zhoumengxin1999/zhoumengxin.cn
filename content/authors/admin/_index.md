@@ -68,7 +68,7 @@ email: 'zhoumengxin@outlook.com'
 highlight_name: true
 ---
 
-IExploration is the constant theme of my life. From studying in Beijing to Hong Kong, from being a student to becoming a teacher, I have been exploring my unlimited potential. I went to internships, did volunteer activities, and obtained certificates in various fields. I happily enriched my life.
+Exploration is the constant theme of my life. From studying in Beijing to Hong Kong, from being a student to becoming a teacher, I have been exploring my unlimited potential. I went to internships, did volunteer activities, and obtained certificates in various fields. I happily enriched my life.
 
 Learning is a lifelong act for me. I not only want to master learning myself, but I also want my students to benefit from learning. I work hard to learn specialized knowledge and do my best to integrate elementary and advanced mathematics to bring a different mathematical learning experience to my students. I hope to lead my students to realize that mathematics is a powerful tool.
 
