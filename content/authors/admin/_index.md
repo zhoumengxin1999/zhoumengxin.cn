@@ -44,9 +44,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chau_MangSun
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/zhoumengxin1999
@@ -68,8 +68,8 @@ email: 'zhoumengxin@outlook.com'
 highlight_name: true
 ---
 
-I once heard of a story of a mathematics teacher who drew a straight line on the blackboard and extended it beyond the classroom, leading the students to experience the infinite extension of a straight line. Marvelled at the enlightenment that could be achieved through mathematics education, I have long yearned for becoming such a kind of mathematics teacher who can impart mathematical knowledge to students through methods of guidance and inspiration while overturning their stereotype that mathematics is a boring and mechanical discipline composed of definitions, formulas, and theorems.
+IExploration is the constant theme of my life. From studying in Beijing to Hong Kong, from being a student to becoming a teacher, I have been exploring my unlimited potential. I went to internships, did volunteer activities, and obtained certificates in various fields. I happily enriched my life.
 
-Grown up in Beijing,
+Learning is a lifelong act for me. I not only want to master learning myself, but I also want my students to benefit from learning. I work hard to learn specialized knowledge and do my best to integrate elementary and advanced mathematics to bring a different mathematical learning experience to my students. I hope to lead my students to realize that mathematics is a powerful tool.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
