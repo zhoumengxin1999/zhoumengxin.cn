@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday to Friday 7:00 to 19:00'
     - 'Saturday to Sunday 7:00 to 17:00'

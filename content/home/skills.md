@@ -18,15 +18,15 @@ subtitle:
 feature:
   - description: 90%
     icon: r-project
-    icon_pack: fab
+  #  icon_pack: fab
     name: Office
   - description: 80%
     icon: chart-line
-    icon_pack: fas
+ #   icon_pack: fas
     name: GeoGebra
   - description: 60%
     icon: camera-retro
-    icon_pack: fas
+  #  icon_pack: fas
     name: Latex
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
