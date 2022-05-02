@@ -9,9 +9,9 @@ superuser: true
 role: Mathematics Teacher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: The Chinses University of Hong Kong
-    url: https://www.cuhk.edu.hk/
+#organizations:
+#  - name: The Chinses University of Hong Kong
+#    url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Pedagogy is a fascination with the growth of the other.
@@ -40,16 +40,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:zhoumengxin@outlook.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Chau_MangSun
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhoumengxin1999
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -62,7 +62,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhoumengxin@outlook.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
