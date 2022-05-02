@@ -28,8 +28,8 @@ content:
   email: zhoumengxin@outlook.com
   phone: +86 15910792195
   address:
-    street: 450 Serra Mall
-    city: Beijing
+    street: No. 12, Unit 5, Building 708, Residential Community 15, Yuquan Road
+    city: Haidian District
     region: Beijing
     postcode: '100049'
     country: China
