@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: office
   #  icon_pack: fab
     name: Office
   - description: 80%
-    icon: chart-line
+    icon: geogebra
  #   icon_pack: fas
     name: GeoGebra
   - description: 60%
-    icon: camera-retro
+    icon: latex
   #  icon_pack: fas
-    name: Latex
+    name: LaTex
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -20,7 +20,7 @@ bio: Pedagogy is a fascination with the growth of the other.
 interests:
   - Mathematics Teaching
   - Programming Teaching
-  - Chinese&Mandarin Teaching
+  - Chinese & Mandarin Teaching
 
 # Education to show in About widget
 education:
