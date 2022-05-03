@@ -18,15 +18,15 @@ subtitle:
 feature:
   - description: 90%
     icon: office
-  #  icon_pack: fab
+   icon_pack: "custom"
     name: Office
   - description: 80%
     icon: geogebra
- #   icon_pack: fas
+   icon_pack: "custom"
     name: GeoGebra
   - description: 60%
     icon: latex
-  #  icon_pack: fas
+   icon_pack: "custom"
     name: LaTex
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
